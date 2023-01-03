@@ -1,6 +1,10 @@
 # 💫 About Me:
 #### 👋 Hi, I’m @Dharunkumar-S<br>
-🎓 Student @ Sri Krishna College of Technology, Coimbatore<br>👀 I’m interested in Full Stack Development, Data Structures and Algorithms<br>🌱 I’m currently learning Data Structures and Algorithms<br>📫 Reach me on LinkedIn, Instagram, Twitter
+📘 I’m Pursing BE - EEE (2nd Year) <br>
+🎓 Student @ Sri Krishna College of Technology, Coimbatore<br>
+👀 I’m interested in Full Stack Development, Data Structures and Algorithms<br>
+🌱 I’m currently learning Data Structures and Algorithms<br>
+📫 Reach me on LinkedIn, Instagram, Twitter
 
 
 ## 🌐 Socials:
