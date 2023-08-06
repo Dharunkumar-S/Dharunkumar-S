@@ -1,6 +1,6 @@
 ## 💫 About Me:
 #### 👋 Hi, I’m @Dharunkumar-S<br>
-📘 I’m Pursing BE - EEE (2nd Year) <br>
+📘 I’m Pursing BE - EEE (3rd Year) <br>
 🎓 Student @ Sri Krishna College of Technology, Coimbatore<br>
 📫 Reach me on LinkedIn, Instagram, Twitter
 
